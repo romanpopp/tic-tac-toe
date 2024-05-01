@@ -1,1 +1,1 @@
-A tictactoe game with a computer opponent, written in rust (wowza)
+A tic-tac-toe game with a computer opponent, written in rust (wowza)
